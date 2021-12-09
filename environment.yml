@@ -11,3 +11,4 @@ dependencies:
   - tqdm
   - scikit-learn
   - tensorflow-gpu
+  - notebook  # or jupyterlab
