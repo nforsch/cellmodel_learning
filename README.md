@@ -1,4 +1,4 @@
-# cellmodel_learning
+# Cell model learning
 Machine learning regression for estimating parameters of a cell action potential model
 
 ## Dependencies
